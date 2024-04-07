@@ -1,3 +1,28 @@
 body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+  background-size: cover;
+  text-align: center;
+  font-family: Oxanium;
+  color: white;
+  background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYwNmw3NDMxeGE3dTdham51dDl0bHRic3Y3enJya2k1d3F4MGxiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ydWTcMBjimLbT1CHi/giphy.gif");
+}
+
+.header {
+  font-size: xx-large;
+}
+
+.btn {
+  padding: 8px 12px;
+  background: white;
+  border: none;
+  font-family: inherit;
+}
+
+.cta {
+  border-bottom: 5px solid white;
+}
+
+#img {
+  width: 100px;
+
 }
