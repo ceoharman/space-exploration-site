@@ -1,28 +1,34 @@
 body {
-  
-  background-size: cover;
   text-align: center;
   font-family: Oxanium;
-  color: white;
-  background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanYwNmw3NDMxeGE3dTdham51dDl0bHRic3Y3enJya2k1d3F4MGxiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ydWTcMBjimLbT1CHi/giphy.gif");
-}
-
-.header {
+  color: #e7c0f6;
   font-size: xx-large;
+  margin: 0px;
+  text-shadow: 2px 2px 2px black;
+ }
+
+.hero {
+  background-size: cover;
+  width: auto;
+  padding: 10px 0 60px 0;
+  background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29mdjlwMnlmYjB2YXVkbGhtYWRoZnlwMGMwMWRlZjh5ZGNvNThnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tL5HmgfZi0Qow/giphy.gif")
 }
 
 .btn {
   padding: 8px 12px;
-  background: white;
-  border: none;
+  background: #e7c0f6;
+  color: #1a1720;
+  border: 1px solid whitesmoke;
+  border-radius: 2px;
   font-family: inherit;
+  font-weight: 800;
 }
 
 .cta {
-  border-bottom: 5px solid white;
+  border-bottom: 5px dotted #a171ec;
 }
 
 #img {
-  width: 100px;
-
+  width: 200px;
+  margin-top: 100px;
 }
